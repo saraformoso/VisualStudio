@@ -24,13 +24,13 @@ namespace Banco //aplicar estas funcionalidades de emcapsulamento...
             Titular = NomeTitular;
 
         }
-        //este construtor permite instanciar contas bancarias  com o numero de conta, seu titular e saldo
+        /*//este construtor permite instanciar contas bancarias  com o numero de conta, seu titular e saldo
         public Conta(int NumeroConta, string NomeTitular, double Saldo):this(NumeroConta, NomeTitular) 
         {
             Numero_Conta = NumeroConta;
             Titular = NomeTitular;
             Saldo = Saldo;
-        }
+        }*/
 
 
         //Secção de Metodos
