@@ -1,0 +1,15 @@
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Projetos\Banco - encapsulamento_modificadores\Banco\obj\Debug\net6.0\ref\Banco.dll
